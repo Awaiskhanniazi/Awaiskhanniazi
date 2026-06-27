@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Muhammad Awais Khan 👋
 
-<!--
-**Awaiskhanniazi/Awaiskhanniazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 BSIT Student 
+💡 Passionate about building responsive, database‑driven web applications.  
+🌱 Skilled in PHP, MySQL, React, JavaScript, HTML, CSS  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Frontend: React, HTML, CSS, JavaScript  
+- Backend: PHP, MySQL  
+- Tools: Git, GitHub, QT Frame work VS Code
+- Languages: C++, Java, Java swings 
+
+---
+
+## 📚 Projects
+- **Mianwali Green Bus System** – Transport management with routes, drivers & bookings  
+- **Grocery Store System** – Java Swing app with billing & PDF invoices  
+- **Student Management System** – C++ & QT Framework with secure login  
+
+---
+
+## 🎓 Education
+- BSIT – University of Mianwali (2024–Present)  
+
+---
+
+## 📫 Contact
+- 📧 [awaiskhanniazi2233@gmail.com](mailto:awaiskhanniazi2233@gmail.com)  
+- 🔗 [LinkedIn](https://linkedin.com/in/awais-khan-9ba71b374)  
+
