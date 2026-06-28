@@ -15,9 +15,9 @@
 ---
 
 ## 📚 Projects
-- **Mianwali Green Bus System** – Transport management with routes, drivers & bookings  
-- **Grocery Store System** – Java Swing app with billing & PDF invoices  
-- **Student Management System** – C++ & QT Framework with secure login  
+- **Mianwali Green Bus System** – Transport management with routes, drivers, buses & bookings  
+- **Grocery Store System** – Java Swing app for managing grocery store with billing & PDF invoices  
+- **Student Management System** – C++ & QT Framework with secure login 
 
 ---
 
